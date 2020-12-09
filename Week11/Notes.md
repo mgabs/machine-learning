@@ -26,3 +26,16 @@ Ex.
   - Text detection: 89% (Manually label the images and test at 100% accuracy)
   - Character segmentation: 90% (Manually label the segments and test at 100% accuracy)
   - Character recognition: 100% (Manually label the segments and test at 100% accuracy)
+
+
+1000,1000
+100, 100= 10,000
+50,50= 2500
+
+10$/hour
+4 labels / minute
+240 / hour -> 10
+10,00 /24
+250/6
+125/3
+42
